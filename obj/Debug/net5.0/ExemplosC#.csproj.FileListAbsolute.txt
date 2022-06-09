@@ -1,0 +1,16 @@
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.exe
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.deps.json
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.runtimeconfig.json
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.runtimeconfig.dev.json
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.dll
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ref\ExemplosC#.dll
+C:\Users\marlon.martins\Documents\ExemplosC#\bin\Debug\net5.0\ExemplosC#.pdb
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.csproj.AssemblyReference.cache
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.AssemblyInfoInputs.cache
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.AssemblyInfo.cs
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.csproj.CoreCompileInputs.cache
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.dll
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ref\ExemplosC#.dll
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.pdb
+C:\Users\marlon.martins\Documents\ExemplosC#\obj\Debug\net5.0\ExemplosC#.genruntimeconfig.cache
